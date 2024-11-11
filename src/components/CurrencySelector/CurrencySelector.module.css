@@ -1,0 +1,12 @@
+select{
+    align-self: center;
+}
+
+.selector{
+    height: 50%;
+    border:none;
+}
+
+.formcontrol{
+    align-self: center;
+}

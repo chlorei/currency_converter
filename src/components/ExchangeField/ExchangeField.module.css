@@ -1,0 +1,24 @@
+.field{
+    /* background-color: #A2DCE7;
+     */
+    border: solid black 1.5px;
+    /* width: 350px; */
+    width: 80%;
+    height: 70px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    /* padding: 5px; */
+    justify-content: space-around;
+    /* align-items: center; */
+    margin-bottom: 40px;
+}
+
+select{
+    align-self: center;
+}
+
+.selector{
+    height: 50%;
+    border:none;
+}

@@ -1,0 +1,9 @@
+.selector{
+    border: solid black 2px;
+    /* display: n;*/
+    width: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    ;
+}
